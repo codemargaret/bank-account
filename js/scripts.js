@@ -21,8 +21,5 @@ $(document).ready(function() {
     var add = $('input#deposit').val();
 
     var newAccount = new BankAccount(name, initDeposit);
-
-    $("#"
-    )
   });
 });
