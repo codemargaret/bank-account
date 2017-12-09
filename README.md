@@ -1,33 +1,34 @@
-# _{Application Name}_
+# _Bank Account_
 
-#### _{Brief description of application}, {Date of current version}_
+#### _An app that simulates some functions of a bank account, 08.22.2017_
 
-#### By _**Margaret Berry**_
+#### By _**Margaret Berry and Aaron Rohrbacher**_
 
 ## Description
-
-_{This is a detailed description of your application. Its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }_
+_The back end contains functions for withdrawals and deposits._
 
 ## Setup/Installation Requirements
+_Run the following commands in Terminal:_
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
+1. `$ git clone` [this repository](https://github.com/codemargaret/bank-account.git)
+2. `$ cd bank-account`
+3. `$ open index.html`
 
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this app depends on?}_
+_Open in your preferred text editor for a closer look at the code._
 
 ## Known Bugs
+_This app is not currently functional._
 
-_There are no known bugs at this time._
+## Project Goals
+_Practice working with JavaScript objects._
+
+## Future Features
+_Display the results of the functions in the front end._
 
 ## Support and contact details
-
-_If you have questions, comments, or concerns, please contact [Margaret](margaretshelaghmcgovern@gmail.com).  Feel free to make a contribution to the code._
+_If you have questions, comments, or concerns, please contact [Margaret](codeberry1@gmail.com).  Feel free to make a contribution to the code._
 
 ## Technologies Used
-
 * _HTML_
 * _CSS_
 * _Bootstrap_
@@ -35,7 +36,6 @@ _If you have questions, comments, or concerns, please contact [Margaret](margare
 * _jQuery_
 
 ### License
-
 *This software is licensed under the MIT license.*
 
-Copyright (c) 2017 **_Margaret Berry_**
+Copyright (c) 2017 **_Margaret Berry and Aaron Rohrbacher_**
